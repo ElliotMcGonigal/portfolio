@@ -4,6 +4,11 @@ img {
   float: right;
 }
 
+h1 {
+  margin-left: 25%;
+  color: purple;
+}
+
 body {
   background-color: lightblue;
 }
