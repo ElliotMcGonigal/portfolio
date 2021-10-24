@@ -1,0 +1,18 @@
+img {
+  width: 300px;
+  height: 400px;
+  float: right;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.aboutMe {
+  width: 80%;
+  margin: 5px;
+  border: 1px solid black;
+  padding: 4px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightgreen;
+}
